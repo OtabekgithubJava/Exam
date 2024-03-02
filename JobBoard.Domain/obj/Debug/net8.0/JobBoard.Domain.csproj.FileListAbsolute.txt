@@ -1,0 +1,14 @@
+/Users/otabek_coding/C# codes/RiderProjects/Exam/JobBoard.Domain/bin/Debug/net8.0/JobBoard.Domain.deps.json
+/Users/otabek_coding/C# codes/RiderProjects/Exam/JobBoard.Domain/bin/Debug/net8.0/JobBoard.Domain.runtimeconfig.json
+/Users/otabek_coding/C# codes/RiderProjects/Exam/JobBoard.Domain/bin/Debug/net8.0/JobBoard.Domain.dll
+/Users/otabek_coding/C# codes/RiderProjects/Exam/JobBoard.Domain/bin/Debug/net8.0/JobBoard.Domain.pdb
+/Users/otabek_coding/C# codes/RiderProjects/Exam/JobBoard.Domain/obj/Debug/net8.0/JobBoard.Domain.csproj.AssemblyReference.cache
+/Users/otabek_coding/C# codes/RiderProjects/Exam/JobBoard.Domain/obj/Debug/net8.0/JobBoard.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/otabek_coding/C# codes/RiderProjects/Exam/JobBoard.Domain/obj/Debug/net8.0/JobBoard.Domain.AssemblyInfoInputs.cache
+/Users/otabek_coding/C# codes/RiderProjects/Exam/JobBoard.Domain/obj/Debug/net8.0/JobBoard.Domain.AssemblyInfo.cs
+/Users/otabek_coding/C# codes/RiderProjects/Exam/JobBoard.Domain/obj/Debug/net8.0/JobBoard.Domain.csproj.CoreCompileInputs.cache
+/Users/otabek_coding/C# codes/RiderProjects/Exam/JobBoard.Domain/obj/Debug/net8.0/JobBoard.Domain.dll
+/Users/otabek_coding/C# codes/RiderProjects/Exam/JobBoard.Domain/obj/Debug/net8.0/refint/JobBoard.Domain.dll
+/Users/otabek_coding/C# codes/RiderProjects/Exam/JobBoard.Domain/obj/Debug/net8.0/JobBoard.Domain.pdb
+/Users/otabek_coding/C# codes/RiderProjects/Exam/JobBoard.Domain/obj/Debug/net8.0/JobBoard.Domain.genruntimeconfig.cache
+/Users/otabek_coding/C# codes/RiderProjects/Exam/JobBoard.Domain/obj/Debug/net8.0/ref/JobBoard.Domain.dll

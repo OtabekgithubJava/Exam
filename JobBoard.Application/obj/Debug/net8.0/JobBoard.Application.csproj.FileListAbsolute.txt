@@ -1,0 +1,17 @@
+/Users/otabek_coding/C# codes/RiderProjects/Exam/JobBoard.Application/bin/Debug/net8.0/JobBoard.Application.deps.json
+/Users/otabek_coding/C# codes/RiderProjects/Exam/JobBoard.Application/bin/Debug/net8.0/JobBoard.Application.runtimeconfig.json
+/Users/otabek_coding/C# codes/RiderProjects/Exam/JobBoard.Application/bin/Debug/net8.0/JobBoard.Application.dll
+/Users/otabek_coding/C# codes/RiderProjects/Exam/JobBoard.Application/bin/Debug/net8.0/JobBoard.Application.pdb
+/Users/otabek_coding/C# codes/RiderProjects/Exam/JobBoard.Application/bin/Debug/net8.0/JobBoard.Domain.dll
+/Users/otabek_coding/C# codes/RiderProjects/Exam/JobBoard.Application/bin/Debug/net8.0/JobBoard.Domain.pdb
+/Users/otabek_coding/C# codes/RiderProjects/Exam/JobBoard.Application/obj/Debug/net8.0/JobBoard.Application.csproj.AssemblyReference.cache
+/Users/otabek_coding/C# codes/RiderProjects/Exam/JobBoard.Application/obj/Debug/net8.0/JobBoard.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/otabek_coding/C# codes/RiderProjects/Exam/JobBoard.Application/obj/Debug/net8.0/JobBoard.Application.AssemblyInfoInputs.cache
+/Users/otabek_coding/C# codes/RiderProjects/Exam/JobBoard.Application/obj/Debug/net8.0/JobBoard.Application.AssemblyInfo.cs
+/Users/otabek_coding/C# codes/RiderProjects/Exam/JobBoard.Application/obj/Debug/net8.0/JobBoard.Application.csproj.CoreCompileInputs.cache
+/Users/otabek_coding/C# codes/RiderProjects/Exam/JobBoard.Application/obj/Debug/net8.0/JobBoard.Application.csproj.CopyComplete
+/Users/otabek_coding/C# codes/RiderProjects/Exam/JobBoard.Application/obj/Debug/net8.0/JobBoard.Application.dll
+/Users/otabek_coding/C# codes/RiderProjects/Exam/JobBoard.Application/obj/Debug/net8.0/refint/JobBoard.Application.dll
+/Users/otabek_coding/C# codes/RiderProjects/Exam/JobBoard.Application/obj/Debug/net8.0/JobBoard.Application.pdb
+/Users/otabek_coding/C# codes/RiderProjects/Exam/JobBoard.Application/obj/Debug/net8.0/JobBoard.Application.genruntimeconfig.cache
+/Users/otabek_coding/C# codes/RiderProjects/Exam/JobBoard.Application/obj/Debug/net8.0/ref/JobBoard.Application.dll

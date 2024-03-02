@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>User Registration</title>
+</head>
+<body>
+
+<h2>User Registration</h2>
+
+<form id="registrationForm" action="/process_registration.php" method="post" onsubmit="generateVerificationCode()">
+    <label for="username">Username:</label>
+    <input type="text" id="username" name="username" required>
+
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" required>
+    <label for="username"></label>
+
+    <label for="password">Password:</label>
+    <input type="password" id="password" name="password" required>
+    
+    <input type="text" id="verification_code" name="verification_code" readonly>
+    
+    <button type="submit">Register</button>
+</form>
+
+<script>
+    function generateVerificationCode() {
+        var verificationCode = Math.random().toString(36).substring(2, 7).toUpperCase();
+        document.getElementById("verification_code").value = verificationCode;
+        
+        return true;
+    }
+</script>
+
+<h2>Verification Code: CR7</h2>
+
+</body>
+</html>
